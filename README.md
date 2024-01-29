@@ -5,8 +5,7 @@
 ### Setup procedure
 1. Fork the repository in your personal github account
 2. Checkout a new feature branch from `main`
-3. Complete the test in 1h and 30min
-4. Push the code and prepare the Pull Request from feature branch to main branch
+3. Push the code and prepare the Pull Request from feature branch to main branch
 
 ### Test #01
 #### Objective
